@@ -5,9 +5,34 @@ A reading assignment on Service Oriented Architecture.
 * <b>What is SOA?</b>
 <br>Service-Oriented Architecture is an approach to software development architecture. It outlines how to make software components reusable using interfaces. The applications of SOA make use of services available in the network.
 * <b>Which are the main building blocks of SOA architecture?</b>
-<br>
-* <b>What are the advantages and disadvantages of applying it in enterprise applications development?</b>
-<br>
+<br><img src="img/ServiceProviderAndConsumer.png">
+<br>Service providers and consumers are in focus. The consumer asks for a resource and the provides sends the resource back to the consumer if it was a valid request.
+* <b>What are the advantages of applying it in enterprise applications development?</b>
+<br>"Advantages of SOA: 
+    * Service reusability:
+    <br>In SOA, applications are made from existing services. Thus, services can be reused to make many applications.
+    * Easy maintenance: 
+    <br>As services are independent of each other they can be updated and modified easily without affecting other services.
+    * Platform independent: 
+    <br>SOA allows making a complex application by combining services picked from different sources, independent of the platform.
+    * Availability: 
+    <br>SOA facilities are easily available to anyone on request.
+    * Reliability: 
+    <br>SOA applications are more reliable because it is easy to debug small services rather than huge codes
+    * Scalability: 
+    <br>Services can run on different servers within an environment, this increases scalability"
+<br>According to GeeksforGeeks's [article on SOA](https://www.geeksforgeeks.org/service-oriented-architecture/).
+
+* <b>What are the disadvantages of applying it in enterprise applications development?</b>
+<br>"Disadvantages of SOA:
+    * High overhead: 
+    <br>A validation of input parameters of services is done whenever services interact this decreases performance as it increases load and response time.
+    * High investment: 
+    <br>A huge initial investment is required for SOA.
+    * Complex service management: 
+    <br>When services interact they exchange messages to tasks. the number of messages may go in millions. It becomes a cumbersome task to handle a large number of messages."
+<br>Also according to GeeksforGeeks's [article on SOA](https://www.geeksforgeeks.org/service-oriented-architecture/).
+
 * <b>Which basic principles should the developers of SOA consider?</b>
 <br>"A service has four properties according to one of many definitions of SOA:[3]
 
