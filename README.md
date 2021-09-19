@@ -51,3 +51,6 @@ The original order:
 * Shared services over specific-purpose implementations.
 * Flexibility over optimization.
 * Evolutionary refinement over pursuit of initial perfection.
+
+My personal feeling is that this priority order very well demonstrates the priority list you'd likely find optimal for a business with many projects simultaneously and over time, which is why the strategic goals supercede the project-specific benefits - you would rather aim for the benefit of the whole company even if one project takes a hit.
+<br>However a business able to fully focus on one project might lay out this priority order differently.
