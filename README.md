@@ -5,8 +5,8 @@ A reading assignment on Service Oriented Architecture.
 * <b>What is SOA?</b>
 <br>Service-Oriented Architecture is an approach to software development architecture. It outlines how to make software components reusable using interfaces. The applications of SOA make use of services available in the network.
 * <b>Which are the main building blocks of SOA architecture?</b>
-<br><img src="img/ServiceProviderAndConsumer.png">
-<br>Service providers and consumers are in focus. The consumer asks for a resource and the provides sends the resource back to the consumer if it was a valid request.
+<br>"There are three roles in each of the Service-Oriented Architecture building blocks: service provider; service broker, service registry, service repository; and service requester/consumer."
+<br>According to [the approved source used for SI lesson preparation week 38](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec).
 * <b>What are the advantages of applying it in enterprise applications development?</b>
 <br>"Advantages of SOA: 
     * Service reusability:
