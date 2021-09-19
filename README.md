@@ -14,7 +14,8 @@ A reading assignment on Service Oriented Architecture.
     It logically represents a repeatable business activity with a specified outcome.
     It is self-contained.
     It is a black box for its consumers, meaning the consumer does not have to be aware of the service's inner workings.
-    It may be composed of other services.[4]" - according to Wikipedia's [article on SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture).
+    It may be composed of other services.[4]" 
+According to Wikipedia's [article on SOA](https://en.wikipedia.org/wiki/Service-oriented_architecture).
 
 2. There exists a document, known as SOA Manifesto, which defines six values of priority in the work of the developers of SOA. Write those values in your own priority order (these you find most important should be at the top of the list) and explain your arguments.
 
